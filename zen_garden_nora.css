@@ -1,0 +1,102 @@
+body{
+    font-family: "Garamond-Normal"; /*Helvetica, arial, Verdana, Arial; */
+    color: darkblue;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1,5;
+}
+
+p, h1, h2, h3{
+    padding-left: 60px;
+    margin-top:0
+}
+h1, h2, h3, footer{
+    font-weight: 900
+}
+
+h2, h3{
+    text-transform: capitalize
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+    line-height: 2.5;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    font-size: 4em;
+    color: whitesmoke;
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/02/Blue-Red-Painted-Wall-Background.jpg);
+}
+
+h2{
+    word-spacing: 4px;
+    letter-spacing: 4px;
+    font-size: 2.5em;
+}
+
+h3{
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    font-size: 1.5em;
+}
+
+footer{
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/02/Blue-Red-Painted-Wall-Background.jpg);
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    word-spacing: 106px;
+}
+
+footer a{
+    color: white;    
+}
+
+#zen-intro{
+    font-size:1.1em
+}
+
+#zen-summary{
+    font-style: italic;
+    padding: 0 0 0 200px;
+    text-align: right
+}
+
+#zen-preamble{
+    background-image: url(http://img1.wikia.nocookie.net/__cb20140529222632/glee/images/7/70/Light_Red_Background_by_Vik_for_Stuff.png);
+    line-height: 1.3;
+    margin-bottom:20px
+}
+
+#design-selection{
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/02/Blue-Red-Painted-Wall-Background.jpg);
+    color:white;
+    margin-top: 20px
+}
+
+#design-selection a:link{
+    color:white;
+}
+
+#design-archives{
+    float: left;
+    width: 636px;
+    height: 200px;
+    text-align: center;
+    background-image: url(http://img1.wikia.nocookie.net/__cb20140529222632/glee/images/7/70/Light_Red_Background_by_Vik_for_Stuff.png);
+}
+
+#zen-resources{
+    background-image: url(http://img1.wikia.nocookie.net/__cb20140529222632/glee/images/7/70/Light_Red_Background_by_Vik_for_Stuff.png);
+    margin: 0 636px;
+    width: 636px;
+    height: 190px;
+    padding: 5px;
+    text-align: center
+}
